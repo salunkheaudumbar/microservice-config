@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: cONFIG-prod
+# spring:
+#   application:
+#     name: cONFIG-prod
 
 eureka:
   instance:
